@@ -1,1 +1,1 @@
-# Website Portfolyo
+# Minimal portfolio website
