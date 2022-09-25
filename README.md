@@ -1,5 +1,6 @@
 # Minimal portfolio website
 Update very soon!!
+I would be glad if you let me know the errors this may be some bugs in my first project
 
 ## Demo
 
